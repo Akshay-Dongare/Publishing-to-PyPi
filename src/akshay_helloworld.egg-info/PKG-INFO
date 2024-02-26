@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: akshay-helloworld
+Version: 0.0.2
+Summary: Python package to print Hello World!
+Home-page: UNKNOWN
+Author: Akshay Dongare
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+# Installation 
+```
+pip install akshay-helloworld
+```
+
+# Usage
+```python
+from akshay_helloworld import *
+
+hello_world()          #prints "Hello World from Akshay!!"
+
+hello_world("User")    #prints "Hello User!!"
+```
+
+
